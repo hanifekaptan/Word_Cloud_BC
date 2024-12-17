@@ -1,0 +1,832 @@
+icon,code
+classic user solid,fas fa-user
+classic check solid,fas fa-check
+classic image solid,fas fa-image
+brands instagram,fab fa-instagram
+classic phone solid,fas fa-phone
+classic envelope solid,fas fa-envelope
+classic envelope regular,far fa-envelope
+brands linkedin,fab fa-linkedin
+classic star solid,fas fa-star
+classic star regular,far fa-star
+brands github,fab fa-github
+classic music solid,fas fa-music
+classic heart regular,far fa-heart
+classic arrow right solid,fas fa-arrow-right
+classic bomb solid,fas fa-bomb
+classic poo solid,fas fa-poo
+classic camera retro solid,fas fa-camera-retro
+brands youtube,fab fa-youtube
+classic cloud solid,fas fa-cloud
+classic comment regular,far fa-comment
+classic caret up solid,fas fa-caret-up
+brands wordpress,fab fa-wordpress
+classic pen nib solid,fas fa-pen-nib
+classic arrow up solid,fas fa-arrow-up
+classic hippo solid,fas fa-hippo
+brands slack,fab fa-slack
+brands figma,fab fa-figma
+classic bell solid,fas fa-bell
+classic bell regular,far fa-bell
+classic clipboard solid,fas fa-clipboard
+classic clipboard regular,far fa-clipboard
+classic filter solid,fas fa-filter
+classic bolt solid,fas fa-bolt
+classic car solid,fas fa-car
+classic ghost solid,fas fa-ghost
+brands apple,fab fa-apple
+classic mug hot solid,fas fa-mug-hot
+classic pen solid,fas fa-pen
+brands google,fab fa-google
+classic umbrella solid,fas fa-umbrella
+classic gift solid,fas fa-gift
+classic film solid,fas fa-film
+brands stripe,fab fa-stripe
+classic list solid,fas fa-list
+brands algolia,fab fa-algolia
+brands docker,fab fa-docker
+brands windows,fab fa-windows
+classic headphones solid,fas fa-headphones
+classic barcode solid,fas fa-barcode
+classic tag solid,fas fa-tag
+classic book solid,fas fa-book
+classic bookmark solid,fas fa-bookmark
+classic bookmark regular,far fa-bookmark
+brands paypal,fab fa-paypal
+classic print solid,fas fa-print
+classic camera solid,fas fa-camera
+brands stack overflow,fab fa-stack-overflow
+classic font solid,fas fa-font
+classic plus solid,fas fa-plus
+classic minus solid,fas fa-minus
+classic share solid,fas fa-share
+classic fire solid,fas fa-fire
+classic eye regular,far fa-eye
+classic eye slash regular,far fa-eye-slash
+brands dribbble,fab fa-dribbble
+classic plane solid,fas fa-plane
+classic magnet solid,fas fa-magnet
+classic folder solid,fas fa-folder
+classic folder regular,far fa-folder
+classic folder open solid,fas fa-folder-open
+classic folder open regular,far fa-folder-open
+classic money bill solid,fas fa-money-bill
+brands dropbox,fab fa-dropbox
+classic thumbs up solid,fas fa-thumbs-up
+classic thumbs down solid,fas fa-thumbs-down
+classic comments solid,fas fa-comments
+classic comments regular,far fa-comments
+classic lemon solid,fas fa-lemon
+classic key solid,fas fa-key
+classic thumbtack solid,fas fa-thumbtack
+classic paper plane solid,fas fa-paper-plane
+classic globe solid,fas fa-globe
+classic city solid,fas fa-city
+classic tree solid,fas fa-tree
+classic wifi solid,fas fa-wifi
+classic paint roller solid,fas fa-paint-roller
+brands android,fab fa-android
+classic brush solid,fas fa-brush
+classic hashtag solid,fas fa-hashtag
+classic compass solid,fas fa-compass
+classic compass regular,far fa-compass
+classic dumpster fire solid,fas fa-dumpster-fire
+brands shopify,fab fa-shopify
+classic address book regular,far fa-address-book
+classic handshake solid,fas fa-handshake
+classic handshake regular,far fa-handshake
+brands medium,fab fa-medium
+classic snowflake solid,fas fa-snowflake
+classic snowflake regular,far fa-snowflake
+classic palette solid,fas fa-palette
+brands codepen,fab fa-codepen
+classic layer group solid,fas fa-layer-group
+classic gamepad solid,fas fa-gamepad
+classic business time solid,fas fa-business-time
+classic feather solid,fas fa-feather
+classic sun regular,far fa-sun
+brands airbnb,fab fa-airbnb
+brands whatsapp,fab fa-whatsapp
+classic anchor solid,fas fa-anchor
+classic stethoscope solid,fas fa-stethoscope
+classic car side solid,fas fa-car-side
+classic hand holding heart solid,fas fa-hand-holding-heart
+classic calendar solid,fas fa-calendar
+classic calendar regular,far fa-calendar
+classic cart plus solid,fas fa-cart-plus
+classic clock solid,fas fa-clock
+classic clock regular,far fa-clock
+classic circle solid,fas fa-circle
+classic circle regular,far fa-circle
+classic cross solid,fas fa-cross
+classic backward solid,fas fa-backward
+classic passport solid,fas fa-passport
+brands usps,fab fa-usps
+classic phone volume solid,fas fa-phone-volume
+brands wix,fab fa-wix
+classic upload solid,fas fa-upload
+brands line,fab fa-line
+classic credit card solid,fas fa-credit-card
+classic credit card regular,far fa-credit-card
+classic street view solid,fas fa-street-view
+classic database solid,fas fa-database
+classic copy solid,fas fa-copy
+classic copy regular,far fa-copy
+classic mobile solid,fas fa-mobile
+classic square solid,fas fa-square
+classic sort solid,fas fa-sort
+classic forward solid,fas fa-forward
+classic hourglass start solid,fas fa-hourglass-start
+brands behance,fab fa-behance
+classic newspaper solid,fas fa-newspaper
+classic newspaper regular,far fa-newspaper
+classic notes medical solid,fas fa-notes-medical
+classic table solid,fas fa-table
+classic building solid,fas fa-building
+classic building regular,far fa-building
+classic stop solid,fas fa-stop
+brands openid,fab fa-openid
+classic store solid,fas fa-store
+classic flag solid,fas fa-flag
+classic flag regular,far fa-flag
+brands product hunt,fab fa-product-hunt
+classic file excel solid,fas fa-file-excel
+classic network wired solid,fas fa-network-wired
+brands internet explorer,fab fa-internet-explorer
+classic hand point up solid,fas fa-hand-point-up
+classic hand point up regular,far fa-hand-point-up
+brands pagelines,fab fa-pagelines
+classic angle up solid,fas fa-angle-up
+brands teamspeak,fab fa-teamspeak
+classic address card regular,far fa-address-card
+classic expand solid,fas fa-expand
+classic flag checkered solid,fas fa-flag-checkered
+brands html5,fab fa-html5
+classic quote right solid,fas fa-quote-right
+classic tags solid,fas fa-tags
+classic server solid,fas fa-server
+classic arrow down solid,fas fa-arrow-down
+classic school solid,fas fa-school
+classic file invoice solid,fas fa-file-invoice
+classic rocket solid,fas fa-rocket
+classic spinner solid,fas fa-spinner
+brands telegram,fab fa-telegram
+classic water solid,fas fa-water
+classic registered solid,fas fa-registered
+classic registered regular,far fa-registered
+classic signature solid,fas fa-signature
+classic laptop solid,fas fa-laptop
+classic restroom solid,fas fa-restroom
+classic power off solid,fas fa-power-off
+classic sitemap solid,fas fa-sitemap
+classic icons solid,fas fa-icons
+classic desktop solid,fas fa-desktop
+classic moon solid,fas fa-moon
+classic moon regular,far fa-moon
+classic calendar week solid,fas fa-calendar-week
+brands pinterest,fab fa-pinterest
+classic file word solid,fas fa-file-word
+classic file word regular,far fa-file-word
+classic language solid,fas fa-language
+classic brain solid,fas fa-brain
+classic marker solid,fas fa-marker
+classic star of life solid,fas fa-star-of-life
+classic leaf solid,fas fa-leaf
+classic shower solid,fas fa-shower
+brands dashcube,fab fa-dashcube
+classic caret down solid,fas fa-caret-down
+brands ideal,fab fa-ideal
+classic file import solid,fas fa-file-import
+classic place of worship solid,fas fa-place-of-worship
+classic wallet solid,fas fa-wallet
+classic slash solid,fas fa-slash
+classic award solid,fas fa-award
+classic toggle on solid,fas fa-toggle-on
+classic ship solid,fas fa-ship
+brands free code camp,fab fa-free-code-camp
+brands soundcloud,fab fa-soundcloud
+classic chalkboard solid,fas fa-chalkboard
+classic hands solid,fas fa-hands
+classic motorcycle solid,fas fa-motorcycle
+classic audio description solid,fas fa-audio-description
+classic closed captioning solid,fas fa-closed-captioning
+classic closed captioning regular,far fa-closed-captioning
+classic train solid,fas fa-train
+brands cc visa,fab fa-cc-visa
+classic arrow left solid,fas fa-arrow-left
+classic wrench solid,fas fa-wrench
+classic microchip solid,fas fa-microchip
+classic record vinyl solid,fas fa-record-vinyl
+brands goodreads g,fab fa-goodreads-g
+classic trophy solid,fas fa-trophy
+classic hammer solid,fas fa-hammer
+classic robot solid,fas fa-robot
+classic file pdf solid,fas fa-file-pdf
+classic file pdf regular,far fa-file-pdf
+brands google play,fab fa-google-play
+classic hospital solid,fas fa-hospital
+classic crown solid,fas fa-crown
+classic user plus solid,fas fa-user-plus
+classic virus solid,fas fa-virus
+classic child solid,fas fa-child
+classic copyright solid,fas fa-copyright
+classic copyright regular,far fa-copyright
+classic medal solid,fas fa-medal
+classic bullseye solid,fas fa-bullseye
+classic mask solid,fas fa-mask
+classic reply solid,fas fa-reply
+classic chair solid,fas fa-chair
+classic route solid,fas fa-route
+brands wikipedia w,fab fa-wikipedia-w
+classic plug solid,fas fa-plug
+classic calculator solid,fas fa-calculator
+classic certificate solid,fas fa-certificate
+classic fingerprint solid,fas fa-fingerprint
+classic road solid,fas fa-road
+classic crosshairs solid,fas fa-crosshairs
+classic heading solid,fas fa-heading
+classic percent solid,fas fa-percent
+classic user tie solid,fas fa-user-tie
+classic i cursor solid,fas fa-i-cursor
+classic church solid,fas fa-church
+classic truck monster solid,fas fa-truck-monster
+classic recycle solid,fas fa-recycle
+classic warehouse solid,fas fa-warehouse
+classic ruler solid,fas fa-ruler
+brands python,fab fa-python
+classic soap solid,fas fa-soap
+classic scroll solid,fas fa-scroll
+brands skype,fab fa-skype
+classic coins solid,fas fa-coins
+classic wind solid,fas fa-wind
+classic lightbulb solid,fas fa-lightbulb
+classic lightbulb regular,far fa-lightbulb
+brands linux,fab fa-linux
+brands node,fab fa-node
+classic voicemail solid,fas fa-voicemail
+classic puzzle piece solid,fas fa-puzzle-piece
+classic keyboard solid,fas fa-keyboard
+classic keyboard regular,far fa-keyboard
+classic clone regular,far fa-clone
+classic eraser solid,fas fa-eraser
+classic receipt solid,fas fa-receipt
+classic ring solid,fas fa-ring
+classic unlock solid,fas fa-unlock
+brands discourse,fab fa-discourse
+classic solar panel solid,fas fa-solar-panel
+classic circle notch solid,fas fa-circle-notch
+classic people arrows solid,fas fa-people-arrows
+classic dollar sign solid,fas fa-dollar-sign
+brands amazon,fab fa-amazon
+classic not equal solid,fas fa-not-equal
+classic glasses solid,fas fa-glasses
+classic headset solid,fas fa-headset
+classic code branch solid,fas fa-code-branch
+classic gopuram solid,fas fa-gopuram
+classic images solid,fas fa-images
+classic window restore solid,fas fa-window-restore
+classic window restore regular,far fa-window-restore
+classic industry solid,fas fa-industry
+brands spotify,fab fa-spotify
+classic stamp solid,fas fa-stamp
+classic microphone slash solid,fas fa-microphone-slash
+brands microsoft,fab fa-microsoft
+classic cookie bite solid,fas fa-cookie-bite
+classic otter solid,fas fa-otter
+classic kiwi bird solid,fas fa-kiwi-bird
+classic viruses solid,fas fa-viruses
+brands elementor,fab fa-elementor
+brands pied piper,fab fa-pied-piper
+classic umbrella beach solid,fas fa-umbrella-beach
+classic subscript solid,fas fa-subscript
+brands cc mastercard,fab fa-cc-mastercard
+brands facebook messenger,fab fa-facebook-messenger
+brands atlassian,fab fa-atlassian
+brands fly,fab fa-fly
+brands meetup,fab fa-meetup
+classic dumbbell solid,fas fa-dumbbell
+classic plane departure solid,fas fa-plane-departure
+brands waze,fab fa-waze
+classic yen sign solid,fas fa-yen-sign
+classic x ray solid,fas fa-x-ray
+classic won sign solid,fas fa-won-sign
+classic window maximize solid,fas fa-window-maximize
+classic wheelchair solid,fas fa-wheelchair
+classic weight hanging solid,fas fa-weight-hanging
+classic wave square solid,fas fa-wave-square
+classic vr cardboard solid,fas fa-vr-cardboard
+classic volume off solid,fas fa-volume-off
+classic virus slash solid,fas fa-virus-slash
+classic vihara solid,fas fa-vihara
+classic vial solid,fas fa-vial
+classic venus mars solid,fas fa-venus-mars
+classic venus double solid,fas fa-venus-double
+classic venus solid,fas fa-venus
+classic vector square solid,fas fa-vector-square
+classic utensils solid,fas fa-utensils
+classic user tag solid,fas fa-user-tag
+classic user slash solid,fas fa-user-slash
+classic user shield solid,fas fa-user-shield
+classic user ninja solid,fas fa-user-ninja
+classic user lock solid,fas fa-user-lock
+classic user graduate solid,fas fa-user-graduate
+classic user clock solid,fas fa-user-clock
+classic user check solid,fas fa-user-check
+classic user astronaut solid,fas fa-user-astronaut
+classic truck pickup solid,fas fa-truck-pickup
+classic truck moving solid,fas fa-truck-moving
+classic transgender solid,fas fa-transgender
+classic trailer solid,fas fa-trailer
+classic traffic light solid,fas fa-traffic-light
+classic trademark solid,fas fa-trademark
+classic tractor solid,fas fa-tractor
+classic torii gate solid,fas fa-torii-gate
+classic tooth solid,fas fa-tooth
+classic toilet paper slash solid,fas fa-toilet-paper-slash
+classic toilet solid,fas fa-toilet
+classic toggle off solid,fas fa-toggle-off
+classic thermometer solid,fas fa-thermometer
+classic text width solid,fas fa-text-width
+classic text height solid,fas fa-text-height
+classic terminal solid,fas fa-terminal
+classic teeth open solid,fas fa-teeth-open
+classic taxi solid,fas fa-taxi
+classic tape solid,fas fa-tape
+classic syringe solid,fas fa-syringe
+classic swatchbook solid,fas fa-swatchbook
+classic superscript solid,fas fa-superscript
+classic suitcase rolling solid,fas fa-suitcase-rolling
+classic suitcase solid,fas fa-suitcase
+classic stroopwafel solid,fas fa-stroopwafel
+classic star of david solid,fas fa-star-of-david
+classic square full solid,fas fa-square-full
+classic spray can solid,fas fa-spray-can
+classic splotch solid,fas fa-splotch
+classic spa solid,fas fa-spa
+classic sort up solid,fas fa-sort-up
+classic sort down solid,fas fa-sort-down
+classic socks solid,fas fa-socks
+classic smog solid,fas fa-smog
+classic skull solid,fas fa-skull
+classic sim card solid,fas fa-sim-card
+classic shoe prints solid,fas fa-shoe-prints
+classic shield virus solid,fas fa-shield-virus
+classic shapes solid,fas fa-shapes
+classic sd card solid,fas fa-sd-card
+classic screwdriver solid,fas fa-screwdriver
+classic satellite solid,fas fa-satellite
+classic rupee sign solid,fas fa-rupee-sign
+classic ruler horizontal solid,fas fa-ruler-horizontal
+classic ruler combined solid,fas fa-ruler-combined
+classic ruble sign solid,fas fa-ruble-sign
+classic rss solid,fas fa-rss
+classic reply all solid,fas fa-reply-all
+classic rainbow solid,fas fa-rainbow
+classic radiation solid,fas fa-radiation
+classic prescription bottle solid,fas fa-prescription-bottle
+classic prescription solid,fas fa-prescription
+classic podcast solid,fas fa-podcast
+classic plane slash solid,fas fa-plane-slash
+classic plane arrival solid,fas fa-plane-arrival
+classic pizza slice solid,fas fa-pizza-slice
+classic pills solid,fas fa-pills
+classic phone slash solid,fas fa-phone-slash
+classic person booth solid,fas fa-person-booth
+classic pepper hot solid,fas fa-pepper-hot
+classic paste solid,fas fa-paste
+classic parachute box solid,fas fa-parachute-box
+classic pallet solid,fas fa-pallet
+classic pager solid,fas fa-pager
+classic om solid,fas fa-om
+classic oil can solid,fas fa-oil-can
+classic object group solid,fas fa-object-group
+classic neuter solid,fas fa-neuter
+classic mountain solid,fas fa-mountain
+classic mosque solid,fas fa-mosque
+classic monument solid,fas fa-monument
+classic microscope solid,fas fa-microscope
+classic meteor solid,fas fa-meteor
+classic mercury solid,fas fa-mercury
+classic menorah solid,fas fa-menorah
+classic memory solid,fas fa-memory
+classic mars double solid,fas fa-mars-double
+classic mars solid,fas fa-mars
+classic map pin solid,fas fa-map-pin
+classic map solid,fas fa-map
+classic lungs virus solid,fas fa-lungs-virus
+classic lungs solid,fas fa-lungs
+classic lock open solid,fas fa-lock-open
+classic location arrow solid,fas fa-location-arrow
+classic list ul solid,fas fa-list-ul
+classic list ol solid,fas fa-list-ol
+classic life ring solid,fas fa-life-ring
+classic less than equal solid,fas fa-less-than-equal
+classic less than solid,fas fa-less-than
+classic laptop medical solid,fas fa-laptop-medical
+classic laptop code solid,fas fa-laptop-code
+classic khanda solid,fas fa-khanda
+classic jedi solid,fas fa-jedi
+classic infinity solid,fas fa-infinity
+classic indent solid,fas fa-indent
+classic id card solid,fas fa-id-card
+classic id badge solid,fas fa-id-badge
+classic icicles solid,fas fa-icicles
+classic house user solid,fas fa-house-user
+classic hourglass half solid,fas fa-hourglass-half
+classic hourglass end solid,fas fa-hourglass-end
+classic hourglass solid,fas fa-hourglass
+classic hotdog solid,fas fa-hotdog
+classic hospital user solid,fas fa-hospital-user
+classic horse head solid,fas fa-horse-head
+classic horse solid,fas fa-horse
+classic holly berry solid,fas fa-holly-berry
+classic hockey puck solid,fas fa-hockey-puck
+classic head side virus solid,fas fa-head-side-virus
+classic head side mask solid,fas fa-head-side-mask
+classic head side cough slash solid,fas fa-head-side-cough-slash
+classic hat wizard solid,fas fa-hat-wizard
+classic hat cowboy side solid,fas fa-hat-cowboy-side
+classic hand sparkles solid,fas fa-hand-sparkles
+classic hand scissors solid,fas fa-hand-scissors
+classic hand pointer solid,fas fa-hand-pointer
+classic hand point right solid,fas fa-hand-point-right
+classic hand middle finger solid,fas fa-hand-middle-finger
+classic hand holding medical solid,fas fa-hand-holding-medical
+classic hand holding solid,fas fa-hand-holding
+classic hamsa solid,fas fa-hamsa
+classic grip vertical solid,fas fa-grip-vertical
+classic grip lines vertical solid,fas fa-grip-lines-vertical
+classic grip lines solid,fas fa-grip-lines
+classic greater than equal solid,fas fa-greater-than-equal
+classic greater than solid,fas fa-greater-than
+classic graduation cap solid,fas fa-graduation-cap
+classic gifts solid,fas fa-gifts
+classic genderless solid,fas fa-genderless
+classic gas pump solid,fas fa-gas-pump
+classic futbol solid,fas fa-futbol
+classic frog solid,fas fa-frog
+classic folder plus solid,fas fa-folder-plus
+classic folder minus solid,fas fa-folder-minus
+classic flag usa solid,fas fa-flag-usa
+classic fire extinguisher solid,fas fa-fire-extinguisher
+classic fill drip solid,fas fa-fill-drip
+classic fill solid,fas fa-fill
+classic file video solid,fas fa-file-video
+classic file signature solid,fas fa-file-signature
+classic file prescription solid,fas fa-file-prescription
+classic file powerpoint solid,fas fa-file-powerpoint
+classic file medical solid,fas fa-file-medical
+classic file image solid,fas fa-file-image
+classic file code solid,fas fa-file-code
+classic file audio solid,fas fa-file-audio
+classic fax solid,fas fa-fax
+classic faucet solid,fas fa-faucet
+classic fan solid,fas fa-fan
+classic eye dropper solid,fas fa-eye-dropper
+classic euro sign solid,fas fa-euro-sign
+classic ethernet solid,fas fa-ethernet
+classic equals solid,fas fa-equals
+classic egg solid,fas fa-egg
+classic dungeon solid,fas fa-dungeon
+classic drumstick bite solid,fas fa-drumstick-bite
+classic drum steelpan solid,fas fa-drum-steelpan
+classic drum solid,fas fa-drum
+classic dove solid,fas fa-dove
+classic door closed solid,fas fa-door-closed
+classic dolly solid,fas fa-dolly
+classic dog solid,fas fa-dog
+classic divide solid,fas fa-divide
+classic dice three solid,fas fa-dice-three
+classic dice six solid,fas fa-dice-six
+classic dice one solid,fas fa-dice-one
+classic dice four solid,fas fa-dice-four
+classic dice five solid,fas fa-dice-five
+classic dice d20 solid,fas fa-dice-d20
+classic dharmachakra solid,fas fa-dharmachakra
+classic democrat solid,fas fa-democrat
+classic cubes solid,fas fa-cubes
+classic crutch solid,fas fa-crutch
+classic crow solid,fas fa-crow
+classic crop solid,fas fa-crop
+classic couch solid,fas fa-couch
+classic cookie solid,fas fa-cookie
+classic comment medical solid,fas fa-comment-medical
+classic comment dollar solid,fas fa-comment-dollar
+classic cloud sun solid,fas fa-cloud-sun
+classic cloud showers heavy solid,fas fa-cloud-showers-heavy
+classic cloud rain solid,fas fa-cloud-rain
+classic cloud moon rain solid,fas fa-cloud-moon-rain
+classic cloud moon solid,fas fa-cloud-moon
+classic cloud meatball solid,fas fa-cloud-meatball
+classic clipboard list solid,fas fa-clipboard-list
+classic chevron right solid,fas fa-chevron-right
+classic chevron left solid,fas fa-chevron-left
+classic chess rook solid,fas fa-chess-rook
+classic chess queen solid,fas fa-chess-queen
+classic chess pawn solid,fas fa-chess-pawn
+classic chess king solid,fas fa-chess-king
+classic chess board solid,fas fa-chess-board
+classic chess solid,fas fa-chess
+classic cheese solid,fas fa-cheese
+classic check double solid,fas fa-check-double
+classic chart pie solid,fas fa-chart-pie
+classic chart line solid,fas fa-chart-line
+classic chart bar solid,fas fa-chart-bar
+classic chart area solid,fas fa-chart-area
+classic charging station solid,fas fa-charging-station
+classic cat solid,fas fa-cat
+classic cart arrow down solid,fas fa-cart-arrow-down
+classic carrot solid,fas fa-carrot
+classic car battery solid,fas fa-car-battery
+classic capsules solid,fas fa-capsules
+classic cannabis solid,fas fa-cannabis
+classic candy cane solid,fas fa-candy-cane
+classic campground solid,fas fa-campground
+classic calendar plus solid,fas fa-calendar-plus
+classic calendar minus solid,fas fa-calendar-minus
+classic calendar day solid,fas fa-calendar-day
+classic calendar check solid,fas fa-calendar-check
+classic bus solid,fas fa-bus
+classic bullhorn solid,fas fa-bullhorn
+classic broom solid,fas fa-broom
+classic briefcase medical solid,fas fa-briefcase-medical
+classic braille solid,fas fa-braille
+classic box tissue solid,fas fa-box-tissue
+classic box open solid,fas fa-box-open
+classic box solid,fas fa-box
+classic bowling ball solid,fas fa-bowling-ball
+classic border all solid,fas fa-border-all
+classic bong solid,fas fa-bong
+classic blender phone solid,fas fa-blender-phone
+classic blender solid,fas fa-blender
+classic biohazard solid,fas fa-biohazard
+classic bezier curve solid,fas fa-bezier-curve
+classic bell slash solid,fas fa-bell-slash
+classic battery full solid,fas fa-battery-full
+classic battery empty solid,fas fa-battery-empty
+classic bahai solid,fas fa-bahai
+classic baby carriage solid,fas fa-baby-carriage
+classic atom solid,fas fa-atom
+classic asterisk solid,fas fa-asterisk
+classic archway solid,fas fa-archway
+classic angle left solid,fas fa-angle-left
+classic align right solid,fas fa-align-right
+classic align justify solid,fas fa-align-justify
+classic align center solid,fas fa-align-center
+brands yelp,fab fa-yelp
+brands yarn,fab fa-yarn
+brands yandex international,fab fa-yandex-international
+brands yandex,fab fa-yandex
+brands yammer,fab fa-yammer
+brands yahoo,fab fa-yahoo
+brands y combinator,fab fa-y-combinator
+brands xing,fab fa-xing
+brands wpforms,fab fa-wpforms
+brands wpbeginner,fab fa-wpbeginner
+brands wordpress simple,fab fa-wordpress-simple
+brands wolf pack battalion,fab fa-wolf-pack-battalion
+brands wizards of the coast,fab fa-wizards-of-the-coast
+brands weixin,fab fa-weixin
+brands weibo,fab fa-weibo
+brands weebly,fab fa-weebly
+brands vuejs,fab fa-vuejs
+brands vnv,fab fa-vnv
+brands vk,fab fa-vk
+brands vine,fab fa-vine
+brands viber,fab fa-viber
+brands viadeo,fab fa-viadeo
+brands viacoin,fab fa-viacoin
+brands vaadin,fab fa-vaadin
+brands ussunnah,fab fa-ussunnah
+brands usb,fab fa-usb
+brands untappd,fab fa-untappd
+brands unity,fab fa-unity
+brands umbraco,fab fa-umbraco
+brands uikit,fab fa-uikit
+brands ubuntu,fab fa-ubuntu
+brands uber,fab fa-uber
+brands typo3,fab fa-typo3
+brands tumblr,fab fa-tumblr
+brands trello,fab fa-trello
+brands trade federation,fab fa-trade-federation
+brands themeisle,fab fa-themeisle
+brands themeco,fab fa-themeco
+brands tencent weibo,fab fa-tencent-weibo
+brands symfony,fab fa-symfony
+brands supple,fab fa-supple
+brands superpowers,fab fa-superpowers
+brands stumbleupon circle,fab fa-stumbleupon-circle
+brands stumbleupon,fab fa-stumbleupon
+brands studiovinari,fab fa-studiovinari
+brands stripe s,fab fa-stripe-s
+brands strava,fab fa-strava
+brands sticker mule,fab fa-sticker-mule
+brands steam symbol,fab fa-steam-symbol
+brands steam,fab fa-steam
+brands stackpath,fab fa-stackpath
+brands stack exchange,fab fa-stack-exchange
+brands speakap,fab fa-speakap
+brands sourcetree,fab fa-sourcetree
+brands snapchat,fab fa-snapchat
+brands slideshare,fab fa-slideshare
+brands sketch,fab fa-sketch
+brands sith,fab fa-sith
+brands sistrix,fab fa-sistrix
+brands shopware,fab fa-shopware
+brands sellsy,fab fa-sellsy
+brands sellcast,fab fa-sellcast
+brands scribd,fab fa-scribd
+brands schlix,fab fa-schlix
+brands sass,fab fa-sass
+brands safari,fab fa-safari
+brands rockrms,fab fa-rockrms
+brands researchgate,fab fa-researchgate
+brands redhat,fab fa-redhat
+brands reddit alien,fab fa-reddit-alien
+brands reddit,fab fa-reddit
+brands ravelry,fab fa-ravelry
+brands raspberry pi,fab fa-raspberry-pi
+brands r project,fab fa-r-project
+brands quora,fab fa-quora
+brands quinscape,fab fa-quinscape
+brands qq,fab fa-qq
+brands pushed,fab fa-pushed
+brands pinterest p,fab fa-pinterest-p
+brands pied piper pp,fab fa-pied-piper-pp
+brands pied piper hat,fab fa-pied-piper-hat
+brands pied piper alt,fab fa-pied-piper-alt
+brands phoenix squadron,fab fa-phoenix-squadron
+brands phabricator,fab fa-phabricator
+brands patreon,fab fa-patreon
+brands palfed,fab fa-palfed
+brands page4,fab fa-page4
+brands orcid,fab fa-orcid
+brands optin monster,fab fa-optin-monster
+brands opencart,fab fa-opencart
+brands nutritionix,fab fa-nutritionix
+brands ns8,fab fa-ns8
+brands npm,fab fa-npm
+brands node js,fab fa-node-js
+brands nimblr,fab fa-nimblr
+brands napster,fab fa-napster
+brands monero,fab fa-monero
+brands mixer,fab fa-mixer
+brands mix,fab fa-mix
+brands microblog,fab fa-microblog
+brands mendeley,fab fa-mendeley
+brands megaport,fab fa-megaport
+brands medrt,fab fa-medrt
+brands medapps,fab fa-medapps
+brands maxcdn,fab fa-maxcdn
+brands markdown,fab fa-markdown
+brands mandalorian,fab fa-mandalorian
+brands mailchimp,fab fa-mailchimp
+brands magento,fab fa-magento
+brands lyft,fab fa-lyft
+brands linkedin in,fab fa-linkedin-in
+brands less,fab fa-less
+brands leanpub,fab fa-leanpub
+brands korvue,fab fa-korvue
+brands keycdn,fab fa-keycdn
+brands keybase,fab fa-keybase
+brands kaggle,fab fa-kaggle
+brands jsfiddle,fab fa-jsfiddle
+brands joomla,fab fa-joomla
+brands jenkins,fab fa-jenkins
+brands jedi order,fab fa-jedi-order
+brands itunes,fab fa-itunes
+brands itch io,fab fa-itch-io
+brands ioxhost,fab fa-ioxhost
+brands imdb,fab fa-imdb
+brands hubspot,fab fa-hubspot
+brands houzz,fab fa-houzz
+brands hooli,fab fa-hooli
+brands hips,fab fa-hips
+brands hackerrank,fab fa-hackerrank
+brands hacker news,fab fa-hacker-news
+brands gulp,fab fa-gulp
+brands grunt,fab fa-grunt
+brands gripfire,fab fa-gripfire
+brands grav,fab fa-grav
+brands gratipay,fab fa-gratipay
+brands google wallet,fab fa-google-wallet
+brands google plus g,fab fa-google-plus-g
+brands goodreads,fab fa-goodreads
+brands gofore,fab fa-gofore
+brands glide,fab fa-glide
+brands gitter,fab fa-gitter
+brands gitkraken,fab fa-gitkraken
+brands git alt,fab fa-git-alt
+brands gg circle,fab fa-gg-circle
+brands gg,fab fa-gg
+brands get pocket,fab fa-get-pocket
+brands fulcrum,fab fa-fulcrum
+brands foursquare,fab fa-foursquare
+brands forumbee,fab fa-forumbee
+brands fort awesome alt,fab fa-fort-awesome-alt
+brands flipboard,fab fa-flipboard
+brands flickr,fab fa-flickr
+brands firstdraft,fab fa-firstdraft
+brands first order,fab fa-first-order
+brands fedora,fab fa-fedora
+brands fedex,fab fa-fedex
+brands fantasy flight games,fab fa-fantasy-flight-games
+brands facebook f,fab fa-facebook-f
+brands evernote,fab fa-evernote
+brands ethereum,fab fa-ethereum
+brands erlang,fab fa-erlang
+brands empire,fab fa-empire
+brands ello,fab fa-ello
+brands edge,fab fa-edge
+brands ebay,fab fa-ebay
+brands earlybirds,fab fa-earlybirds
+brands dochub,fab fa-dochub
+brands digital ocean,fab fa-digital-ocean
+brands digg,fab fa-digg
+brands diaspora,fab fa-diaspora
+brands deviantart,fab fa-deviantart
+brands dev,fab fa-dev
+brands deskpro,fab fa-deskpro
+brands deploydog,fab fa-deploydog
+brands delicious,fab fa-delicious
+brands dailymotion,fab fa-dailymotion
+brands d and d,fab fa-d-and-d
+brands cuttlefish,fab fa-cuttlefish
+brands css3,fab fa-css3
+brands critical role,fab fa-critical-role
+brands creative commons zero,fab fa-creative-commons-zero
+brands creative commons share,fab fa-creative-commons-share
+brands creative commons sampling,fab fa-creative-commons-sampling
+brands creative commons sa,fab fa-creative-commons-sa
+brands creative commons remix,fab fa-creative-commons-remix
+brands creative commons pd alt,fab fa-creative-commons-pd-alt
+brands creative commons pd,fab fa-creative-commons-pd
+brands creative commons nd,fab fa-creative-commons-nd
+brands creative commons nc eu,fab fa-creative-commons-nc-eu
+brands creative commons nc,fab fa-creative-commons-nc
+brands creative commons,fab fa-creative-commons
+brands cotton bureau,fab fa-cotton-bureau
+brands contao,fab fa-contao
+brands connectdevelop,fab fa-connectdevelop
+brands confluence,fab fa-confluence
+brands codiepie,fab fa-codiepie
+brands cloudscale,fab fa-cloudscale
+brands chromecast,fab fa-chromecast
+brands chrome,fab fa-chrome
+brands centercode,fab fa-centercode
+brands cc stripe,fab fa-cc-stripe
+brands cc paypal,fab fa-cc-paypal
+brands cc jcb,fab fa-cc-jcb
+brands cc discover,fab fa-cc-discover
+brands cc diners club,fab fa-cc-diners-club
+brands cc apple pay,fab fa-cc-apple-pay
+brands cc amex,fab fa-cc-amex
+brands canadian maple leaf,fab fa-canadian-maple-leaf
+brands buysellads,fab fa-buysellads
+brands buy n large,fab fa-buy-n-large
+brands buromobelexperte,fab fa-buromobelexperte
+brands bluetooth,fab fa-bluetooth
+brands blogger,fab fa-blogger
+brands black tie,fab fa-black-tie
+brands bity,fab fa-bity
+brands bitcoin,fab fa-bitcoin
+brands bimobject,fab fa-bimobject
+brands battle net,fab fa-battle-net
+brands bandcamp,fab fa-bandcamp
+brands avianex,fab fa-avianex
+brands autoprefixer,fab fa-autoprefixer
+brands artstation,fab fa-artstation
+brands apple pay,fab fa-apple-pay
+brands apper,fab fa-apper
+brands app store,fab fa-app-store
+brands angular,fab fa-angular
+brands amazon pay,fab fa-amazon-pay
+brands affiliatetheme,fab fa-affiliatetheme
+brands adversal,fab fa-adversal
+brands adn,fab fa-adn
+brands accusoft,fab fa-accusoft
+brands 500px,fab fa-500px
+classic window minimize regular,far fa-window-minimize
+classic star half regular,far fa-star-half
+classic object group regular,far fa-object-group
+classic map regular,far fa-map
+classic life ring regular,far fa-life-ring
+classic id card regular,far fa-id-card
+classic hourglass regular,far fa-hourglass
+classic hand spock regular,far fa-hand-spock
+classic hand scissors regular,far fa-hand-scissors
+classic hand pointer regular,far fa-hand-pointer
+classic hand point down regular,far fa-hand-point-down
+classic hand peace regular,far fa-hand-peace
+classic hand lizard regular,far fa-hand-lizard
+classic gem regular,far fa-gem
+classic file powerpoint regular,far fa-file-powerpoint
+classic file image regular,far fa-file-image
+classic file code regular,far fa-file-code
+classic envelope open regular,far fa-envelope-open
+classic comment dots regular,far fa-comment-dots
+classic chart bar regular,far fa-chart-bar
+classic calendar plus regular,far fa-calendar-plus
+classic calendar minus regular,far fa-calendar-minus
+classic calendar check regular,far fa-calendar-check
+classic bell slash regular,far fa-bell-slash
